@@ -1,6 +1,6 @@
 # Player-python
 
-Código de player em Python. Pode ser usado no Raspberry pi
+Código de player de video em Python, onde reproduz todos os videos prensente em uma pasta especifica automaticamente. Pode ser usado no Raspberry pi.
 
 # Requisitos 
 
