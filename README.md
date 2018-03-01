@@ -1,6 +1,6 @@
 # Player-python
 
-Código de player de video em Python, onde reproduz todos os videos prensente em uma pasta especifica automaticamente. Pode ser usado no Raspberry pi. 
+Código de player de video em Python, onde reproduz todos os videos presente em uma pasta especifica automaticamente. Pode ser usado no Raspberry pi. 
 
 Este projeto foi utilizado para criação de um player para empresa Inter Construtora, para que os funcionário possam enviar video pelo Google Drive e automaticamente o código python presente no Raspberry pi execute os videos presente na pasta do drive, controlando o que é exibido pela TV/Monitor instalado em qualquer local.
 
